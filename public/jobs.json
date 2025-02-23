@@ -1,0 +1,117 @@
+[
+     {
+      "id": 1,
+      "logo": "https://i.ibb.co/PzrbTxh/google-1-1-1.png",
+      "job_title": "Technical Database Engineer",
+      "company_name": "Google LLC",
+      "remote_or_onsite": "Remote",
+      "location": "Dhaka, Bangladesh",
+      "job_type": "Full Time",
+      "salary": "100k-150k",
+      "job_description": " A UI/UX (User Interface/User Experience) designer is responsible for designing and creating engaging and effective interfaces for software and web applications. This includes designing the layout, visual design, and interactivity of the user interface.",
+      "job_responsibility": "Collaborating with cross-functional teams: UI/UX designers often work closely with other teams, including product management, engineering, and marketing, to ensure that the user interface is aligned with business and technical requirements. You will need to be able to effectively communicate your design ideas and gather feedback from other team members.",
+      "educational_requirements": "Bachelor degree to complete any reputational university.",
+      "experiences": "2-3 Years in this field.",
+      "contact_information": {
+        "phone": "01750-00 00 00",
+        "email": "info@gmail.com",
+        "address": "Dhanmondi 32, Sukrabad Dhaka, Bangladesh"
+      }
+    },
+    {
+        "id": 2,
+        "logo": "data:image/png;base64,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",
+        "job_title": "Senior Product Designer",
+        "company_name": "Netflix",
+        "remote_or_onsite": "Onsite",
+        "location": "Dhaka, Bangladesh",
+        "job_type": "Full Time",
+        "salary": "100k-150k",
+        "job_description": "A UI/UX (User Interface/User Experience) designer is responsible for designing and creating engaging and effective interfaces for software and web applications. This includes designing the layout, visual design, and interactivity of the user interface.",
+        "job_responsibility": "Collaborating with cross-functional teams: UI/UX designers often work closely with other teams, including product management, engineering, and marketing, to ensure that the user interface is aligned with business and technical requirements. You will need to be able to effectively communicate your design ideas and gather feedback from other team members.",
+        "educational_requirements": "Bachelor degree to complete any reputational university.",
+        "experiences": "2-3 Years in this field.",
+        "contact_information": {
+          "phone": "01750-00 00 00",
+          "email": "info@gmail.com",
+          "address": "Dhanmondi 32, Sukrabad Dhaka, Bangladesh"
+        }
+      },
+      {
+        "id": 3,
+        "logo": "https://t4.ftcdn.net/jpg/05/10/86/11/360_F_510861190_tHbYo0WdRIZY7fV3cQPir8Zi8xkVihbm.jpg",
+        "job_title": "Software Engineer",
+        "company_name": "Tesla",
+        "remote_or_onsite": "Onsite",
+        "location": "Dhaka, Bangladesh",
+        "job_type": "Full Time",
+        "salary": "100k-150k",
+        "job_description": " A UI/UX (User Interface/User Experience) designer is responsible for designing and creating engaging and effective interfaces for software and web applications. This includes designing the layout, visual design, and interactivity of the user interface.",
+        "job_responsibility": "Collaborating with cross-functional teams: UI/UX designers often work closely with other teams, including product management, engineering, and marketing, to ensure that the user interface is aligned with business and technical requirements. You will need to be able to effectively communicate your design ideas and gather feedback from other team members.",
+        "educational_requirements": "Bachelor degree to complete any reputational university.",
+        "experiences": "2-3 Years in this field.",
+        "contact_information": {
+          "phone": "01750-00 00 00",
+          "email": "info@gmail.com",
+          "address": "Dhanmondi 32, Sukrabad Dhaka, Bangladesh"
+        }
+      },
+      {
+        "id": 4,
+        "logo": "https://i.ibb.co/PzrbTxh/google-1-1-1.png",
+        "job_title": "Software Engineer",
+        "company_name": "Google LLC",
+        "remote_or_onsite": "Onsite",
+        "location": "Dhaka, Bangladesh",
+        "job_type": "Full Time",
+        "salary": "100k-150k",
+        "job_description": "A UI/UX (User Interface/User Experience) designer is responsible for designing and creating engaging and effective interfaces for software and web applications. This includes designing the layout, visual design, and interactivity of the user interface.",
+        "job_responsibility": "Collaborating with cross-functional teams: UI/UX designers often work closely with other teams, including product management, engineering, and marketing, to ensure that the user interface is aligned with business and technical requirements. You will need to be able to effectively communicate your design ideas and gather feedback from other team members.",
+        "educational_requirements": "Bachelor degree to complete any reputational university.",
+        "experiences": "2-3 Years in this field.",
+        "contact_information": {
+          "phone": "01750-00 00 00",
+          "email": "info@gmail.com",
+          "address": "Dhanmondi 32, Sukrabad Dhaka, Bangladesh"
+        }
+      },
+      {
+        "id": 5,
+        "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcThZTF6e2KY45cuhII02W3gikxMAi6hwDtY1g&s",
+        "job_title": "Technical Database Engineer",
+        "company_name": "Tesla",
+        "remote_or_onsite": "Remote",
+        "location": "Dhaka, Bangladesh",
+        "job_type": "Full Time",
+        "salary": "100k-150k",
+        "job_description": "A UI/UX (User Interface/User Experience) designer is responsible for designing and creating engaging and effective interfaces for software and web applications. This includes designing the layout, visual design, and interactivity of the user interface.",
+        "job_responsibility": "Collaborating with cross-functional teams: UI/UX designers often work closely with other teams, including product management, engineering, and marketing, to ensure that the user interface is aligned with business and technical requirements. You will need to be able to effectively communicate your design ideas and gather feedback from other team members.",
+        "educational_requirements": "Bachelor degree to complete any reputational university.",
+        "experiences": "2-3 Years in this field.",
+        "contact_information": {
+          "phone": "01750-00 00 00",
+          "email": "info@gmail.com",
+          "address": "Dhanmondi 32, Sukrabad Dhaka, Bangladesh"
+        }
+      },
+      {
+        "id": 6,
+        "logo": "https://images.seeklogo.com/logo-png/2/2/cbi-logo-png_seeklogo-27325.png",
+        "job_title": "Senior Product Designer",
+        "company_name": "Netflix",
+        "remote_or_onsite": "Remote",
+        "location": "Dhaka, Bangladesh",
+        "job_type": "Full Time",
+        "salary": "100k-150k",
+        "job_description": "A UI/UX (User Interface/User Experience) designer is responsible for designing and creating engaging and effective interfaces for software and web applications. This includes designing the layout, visual design, and interactivity of the user interface.",
+        "job_responsibility": "Collaborating with cross-functional teams: UI/UX designers often work closely with other teams, including product management, engineering, and marketing, to ensure that the user interface is aligned with business and technical requirements. You will need to be able to effectively communicate your design ideas and gather feedback from other team members.",
+        "educational_requirements": "Bachelor degree to complete any reputational university.",
+        "experiences": "2-3 Years in this field.",
+        "contact_information": {
+          "phone": "01750-00 00 00",
+          "email": "info@gmail.com",
+          "address": "Dhanmondi 32, Sukrabad Dhaka, Bangladesh"
+        }
+      }
+  
+  ]
