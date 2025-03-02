@@ -9,7 +9,8 @@ const currentId=parseInt(id);
 const job=jobs.find(job=> job.id ===  currentId)
 const notify = () => {
   toast("Applied Successfully!");
-  saveJobApplications(id)
+  const intId=parseInt(id);
+  saveJobApplications(intId);
 }
 
   return (
